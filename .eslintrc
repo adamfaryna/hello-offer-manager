@@ -1,0 +1,21 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "jasmine": true
+  },
+  "extends": [
+    "xo-react/space",
+    "xo-space"
+  ],
+  "globals": {
+    "React": true,
+    "ReactDOM": true,
+    "axios": true
+  },
+  "rules": {
+    "react/jsx-no-undef": 0,
+    "no-undef": 0,
+    "no-unused-vars": 0
+  }
+}

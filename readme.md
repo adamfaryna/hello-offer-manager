@@ -1,7 +1,4 @@
-
----
-
-#Hello Offer Manager!
+#Hello Offer Manager
 _Simple example of Spring Boot + REST + Emdedded MongoDB + React_
 
 ## Introduction
@@ -20,7 +17,8 @@ Authentication and authorization is omitted at this moment. It will be provided 
 
 Simply run
 
-`./mwnw spring-boot:run`
+(Windows) `mwnw spring-boot:run`
+(Linux, Unix, Mac OS) `./mwnw spring-boot:run`
 
 and that's it, server is app and running. You can make a REST API calls as described below or just enter the browser view at `http://localhost:8080` to play with offers.
 

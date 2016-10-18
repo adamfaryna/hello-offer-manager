@@ -1,4 +1,4 @@
-'use strict';
+f 'use strict';
 
 const React = require('react');
 const client = require('../../service/client');
@@ -25,7 +25,6 @@ module.exports = class Offers extends React.Component {
   constructor(props) {
     super(props);
     this.state = { offers: [] };
-
   }
 
   fetchOffers() {

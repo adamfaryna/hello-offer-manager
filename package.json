@@ -1,7 +1,7 @@
 {
   "name": "offer-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple example of Spring Boot + REST + React app.",
   "author": "Adam Faryna <http://appdy.net>",
   "scripts": {
     "watch": "webpack --watch -d"
